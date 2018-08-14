@@ -1,4 +1,5 @@
 # Aula2.1
-Sandra Bullock
+Steve Seagal
 Jet Lii
 Paul Walker
+Claudia Raia
